@@ -72,6 +72,5 @@ The goal of **GRAB_THE_WORK** is to provide a dynamic, secure, and user-friendly
    For Socket:
    cd socket
    npm i
-ADD the .env file accordingly your are a grown ass man you should know that!!!
 
 
